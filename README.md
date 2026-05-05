@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ayush%20Khatal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter%20%E2%80%94%20one%20commit%20at%20a%20time&descAlignY=58&descSize=18&descColor=a0c4d8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Flutter+%2B+Dart+Developer+%F0%9F%93%B1;Supabase+%2F+Firebase+Enthusiast+%E2%98%81%EF%B8%8F;B.Tech+CS+%40+VIT+Pune+%F0%9F%8E%93;Personal+Finance+Writer+on+Medium+%F0%9F%93%9D;Building+Campus+Flow+%F0%9F%8F%AB)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Khatal-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkhatal)
@@ -26,6 +24,8 @@ class Ayush extends Developer {
   final String name     = "Ayush Satish Khatal";
   final String college  = "VIT Pune — B.Tech Computer Science (2nd Year)";
   final String location = "Pune, Maharashtra 🇮🇳";
+```
+
 ---
 
 ## ✍️ Writing on Medium
