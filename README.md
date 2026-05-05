@@ -48,7 +48,7 @@ class Ayush extends Developer {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ayush136-devops&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=fb923c&currStreakLabel=38bdf8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ayush136-devops)](https://git.io/streak-stats)
 
 </div>
 
