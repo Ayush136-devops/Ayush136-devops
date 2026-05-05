@@ -25,17 +25,7 @@ class Ayush extends Developer {
   final String college  = "VIT Pune — B.Tech Computer Science (2nd Year)";
   final String location = "Pune, Maharashtra 🇮🇳";
 
-  final List<String> currentlyBuilding = [
-    "Campus Flow — Real-time classroom availability app for VIT Pune",
-    "Personal finance articles for beginner Indian investors on Medium",
-  ];
-
-  final List<String> currentlyLearning = ["Data Science", "Flutter Advanced Patterns"];
-
-  String ask_me_about() => "Flutter · Supabase · Algorithmic Trading · Investing";
-  String fun_fact()     => "I debug with print statements and I'm not ashamed 🫡";
-}
-```
+ ```
 
 ---
 
