@@ -27,18 +27,7 @@ class Ayush extends Developer {
 
   final List<String> currentlyBuilding = [
     "Campus Flow — Real-time classroom availability app for VIT Pune",
-    "Personal finance articles for beginner Indian investors on Medium",
-  ];
 
-  final List<String> obsessedWith = [
-    "Clean mobile UI/UX",
-    "Real-time systems",
-    "Making finance less scary for people",
-  ];
-
-  String ask_me_about() => "Flutter · Supabase · Algorithmic Trading · Investing";
-  String fun_fact()     => "I debug with print statements and I'm not ashamed 🫡";
-}
 ```
 
 ---
